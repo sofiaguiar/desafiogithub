@@ -43,6 +43,14 @@ nav ul li a{
     font-weight: 300;
 }
 
+/* animacion desafio */
+
+nav ul li a:hover{
+    background-color: #3d3b3c;
+    color: #f2e8cf;
+    font-size: 1.5rem;
+}
+
 /* Estilo del MAIN */
 
 main{
